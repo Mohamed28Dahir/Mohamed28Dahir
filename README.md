@@ -6,6 +6,20 @@
 
 <br/>
 
+##  AI Tools I Use
+
+As a modern developer, I integrate AI tools into my daily workflow to work smarter, ship faster, and maintain higher code quality. These tools don't replace my skills — they sharpen them.
+
+| Tool | Purpose |
+|------|---------|
+| 🧠 **Claude Code** | AI-powered coding assistant for writing, reviewing, and debugging code |
+| 🖱️ **Cursor** | AI-first code editor that understands my codebase and accelerates development |
+| 🤖 **GitHub Copilot** | Real-time code suggestions and completions directly inside the editor |
+| 🔵 **Google Antigravity** | Google's agent-first AI development platform for building smarter workflows |
+| ⚡ **Multiple AI Assistants** | Used across different tasks — research, boilerplate generation, and problem solving |
+
+>  *I use AI as a tool, not a crutch — to eliminate friction, not replace thinking. Every line of code I ship, I understand.*
+
 <div align="center">
 
 ```javascript
@@ -56,20 +70,6 @@ const Mohamed = {
 ![Google Antigravity](https://img.shields.io/badge/-Google%20Antigravity-0D1117?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=0D1117)
 
 </div>
-
-##  AI Tools I Use
-
-As a modern developer, I integrate AI tools into my daily workflow to work smarter, ship faster, and maintain higher code quality. These tools don't replace my skills — they sharpen them.
-
-| Tool | Purpose |
-|------|---------|
-| 🧠 **Claude Code** | AI-powered coding assistant for writing, reviewing, and debugging code |
-| 🖱️ **Cursor** | AI-first code editor that understands my codebase and accelerates development |
-| 🤖 **GitHub Copilot** | Real-time code suggestions and completions directly inside the editor |
-| 🔵 **Google Antigravity** | Google's agent-first AI development platform for building smarter workflows |
-| ⚡ **Multiple AI Assistants** | Used across different tasks — research, boilerplate generation, and problem solving |
-
->  *I use AI as a tool, not a crutch — to eliminate friction, not replace thinking. Every line of code I ship, I understand.*
 
 ##  GitHub Stats
 
