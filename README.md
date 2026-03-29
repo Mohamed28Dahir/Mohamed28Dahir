@@ -41,6 +41,7 @@ As a modern developer, I integrate AI tools into my daily workflow to work smart
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
+![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=0D1117)
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)
@@ -49,19 +50,19 @@ As a modern developer, I integrate AI tools into my daily workflow to work smart
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=0D1117)
+![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=0D1117)
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=0D1117)
 ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=0D1117)
-![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=0D1117)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0D1117)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=0D1117)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0D1117)
+![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0D1117)
 
 ###  AI Tools
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-0D1117?style=for-the-badge&logo=anthropic&logoColor=D4A96A&labelColor=0D1117)
