@@ -6,8 +6,6 @@
 
 <br/>
 
----
-
 <div align="center">
 
 ```javascript
@@ -23,11 +21,9 @@ const Mohamed = {
 
 </div>
 
----
-
 <div align="center">
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
@@ -53,7 +49,7 @@ const Mohamed = {
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0D1117)
 
-### 🤖 AI Tools
+###  AI Tools
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-0D1117?style=for-the-badge&logo=anthropic&logoColor=D4A96A&labelColor=0D1117)
 ![Cursor](https://img.shields.io/badge/-Cursor-0D1117?style=for-the-badge&logo=cursor&logoColor=ffffff&labelColor=0D1117)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-0D1117?style=for-the-badge&logo=githubcopilot&logoColor=ffffff&labelColor=0D1117)
@@ -61,9 +57,7 @@ const Mohamed = {
 
 </div>
 
----
-
-## 🤖 AI Tools I Use
+##  AI Tools I Use
 
 As a modern developer, I integrate AI tools into my daily workflow to work smarter, ship faster, and maintain higher code quality. These tools don't replace my skills — they sharpen them.
 
@@ -75,19 +69,15 @@ As a modern developer, I integrate AI tools into my daily workflow to work smart
 | 🔵 **Google Antigravity** | Google's agent-first AI development platform for building smarter workflows |
 | ⚡ **Multiple AI Assistants** | Used across different tasks — research, boilerplate generation, and problem solving |
 
-> 💬 *I use AI as a tool, not a crutch — to eliminate friction, not replace thinking. Every line of code I ship, I understand.*
+>  *I use AI as a tool, not a crutch — to eliminate friction, not replace thinking. Every line of code I ship, I understand.*
 
----
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed28Dahir&hide_border=true&background=0d1117&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=aaaaaa" width="60%"/>
 </p>
 
----
-
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="mailto:mohameddahirosman57@gmail.com">
