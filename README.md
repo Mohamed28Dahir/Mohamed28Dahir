@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00c6ff,50:0072ff,100:005bea&height=220&section=header&text=Mohamed%20Dahir%20Osman&fontSize=50&fontColor=ffffff&fontAlignY=60&desc=Junior%20Full-Stack%20Developer&descAlignY=78&descSize=20&descColor=d0eaff&animation=twinkling&stroke=00c6ff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=220&section=header&text=Mohamed%20Dahir%20Osman&fontSize=50&fontColor=ffffff&fontAlignY=60&desc=Junior%20Full-Stack%20Developer&descAlignY=78&descSize=20&descColor=d0eaff&animation=twinkling&stroke=00c6ff&strokeWidth=2" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=900&color=00C6FF&center=true&vCenter=true&width=750&height=50&lines=⚛️+React+%7C+Next.js+%7C+TypeScript+%7C+JavaScript;🛠️+Node.js+%7C+Laravel+%7C+Flutter+%7C+PHP;🗄️+MySQL+%7C+MongoDB+%7C+PostgreSQL;🤖+AI-Augmented+Developer;🚀+From+Idea+to+Full+Product+—+End+to+End" alt="Typing SVG"/>
@@ -101,5 +101,3 @@ As a modern developer, I integrate AI tools into my daily workflow to work smart
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamed28Dahir&color=00c6ff&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0072ff,50:00c6ff,100:00c6ff&height=150&section=footer&animation=twinkling&stroke=00c6ff&strokeWidth=2" width="100%"/>
